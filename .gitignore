@@ -1,0 +1,39 @@
+# Unity-generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE-generated files
+/.vs/
+/.idea/
+/.gradle/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Build and submission outputs
+/*.apk
+/*.aab
+/*.zip
+/AR_Charizard_Project/
+/AR_Charizard_BurstDebugInformation_DoNotShip/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+
+# Windows files
+Thumbs.db
+Desktop.ini
